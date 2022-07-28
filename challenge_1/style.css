@@ -35,6 +35,6 @@ img{
 }
 
 #special {
-    font-weight: cold;
-    color: 255, 203, 5; /* rgb value */
+    font-weight: bold;
+    color: rgb(255, 203, 5); /* rgb value */
 }
